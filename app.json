@@ -6,18 +6,18 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION_ID":Y7lB2RgK#DBb3gQJoF90-4A5kYA_0UdgTArCuJM2jnRAKKElWB9c {
+      "description": "Y7lB2RgK#DBb3gQJoF90-4A5kYA_0UdgTArCuJM2jnRAKKElWB9c",
       "required": true
     },  
 
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+    "ALIVE_IMG":https://telegra.ph/file/9deb1906e7cc3d70318f9.jpg {
+      "description": "https://telegra.ph/file/9deb1906e7cc3d70318f9.jpg",
       "required": true
     },
     
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+    "ALIVE_MSG":hi {
+      "description": "hi",
       "required": true
     }   
 },
