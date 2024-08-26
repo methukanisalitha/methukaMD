@@ -36,7 +36,7 @@ await conn.sendmassage(from,{audio:{url:downloadurl},mimetype:"audio/mpeg"},{quo
 await conn.sendmassage(from,{document:{url:downloadurl},mimetype:"audio/mpeg",fileName:data.title + ".mp3".caption:"powerd by ✨METHUKA-MD✨yt downloader_____💻-methuka nisalitha"},{quoted:mek})
 }catch(e){
 console.log(e)
-  reply('s{e}')
+  reply('${e}')
 }
 }}
 
@@ -79,7 +79,7 @@ await conn.sendmassage(from,{video:{url:downloadurl},mimetype:"video/mp4"},{quot
 await conn.sendmassage(from,{document:{url:downloadurl},mimetype:"video/mp4",fileName:data.title + ".mp4".caption:"powerd by ✨METHUKA-MD✨yt downloader_____💻-methuka nisalitha"},{quoted:mek})
 }catch(e){
 console.log(e)
-  reply('s{e}')
+  reply('${e}')
 }
 }}
 
